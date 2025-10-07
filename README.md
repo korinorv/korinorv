@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 A serverless ad-blocking API deployed on Cloudflare's global edge network. Blocks ad and tracker domains with sub-10ms response times.
 
-**Live Demo:** `https://dns-adblock.indresik.workers.dev/`
+**Live Demo:** https://dns-adblock.indresik.workers.dev/
 
 ## 🛠️ Tech Stack
 
@@ -33,12 +33,7 @@ A serverless ad-blocking API deployed on Cloudflare's global edge network. Block
 
 ## 📡 API Usage
 
-```javascript
-// Check any domain
-const response = await fetch('https://dns-adblock.indresik.workers.dev/api/check?domain=example.com');
-const data = await response.json();
-console.log(data.status); // "BLOCKED" or "ALLOWED"
-```
+https://dns-adblock.indresik.workers.dev/api/check?domain=doubleclick.net
 
 ## Tools
 
