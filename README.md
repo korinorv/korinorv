@@ -67,4 +67,4 @@ console.log(data.status); // "BLOCKED" or "ALLOWED"
 </div>
 
 ## Projects
-- DNS Ad-Blocker
+- [DNS Ad-Blocker](https://github.com/korinorv/DNS-Ad-blocker.git)
