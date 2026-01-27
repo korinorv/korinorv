@@ -1,6 +1,6 @@
 
 # Hello, I'm Maxwell
-<a href="https://www.linkedin.com/in/maxwell-mwangi-bb5908377/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/maxwell-n-mwangi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am an undergraduate with a passion for various technologies and a profound interest in solving complex problems in creative ways. 
