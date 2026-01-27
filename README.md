@@ -25,7 +25,7 @@ A serverless ad-blocking API deployed on Cloudflare's global edge network. Block
 
 ## 🚀 Features
 
-- Blocks 50+ ad/tracker domains
+- Blocks 70,000+ ad/tracker domains
 - Zero-cost infrastructure ($0/month)
 - Real-time dashboard with statistics
 - REST API for programmatic access
@@ -62,4 +62,4 @@ https://dns-adblock.indresik.workers.dev/api/check?domain=doubleclick.net
 </div>
 
 ## Projects
-- [DNS Ad-Blocker](https://github.com/korinorv/DNS-Ad-blocker.git)
+- [DNS-Shield](https://github.com/korinorv/DNS-Ad-blocker.git)
