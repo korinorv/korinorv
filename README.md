@@ -16,14 +16,14 @@ A serverless ad-blocking API deployed on Cloudflare's global edge network. Block
 
 ### [Live Demo](https://dns-adblock.indresik.workers.dev/)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Cloudflare Workers** (Serverless/Edge Computing)
 - **JavaScript ES6+** (REST API, Async/Await)
 - **HTML/CSS** (Responsive Dashboard)
 - **DNS Protocol** (Network-level Filtering)
 
-## 🚀 Features
+## Features
 
 - Blocks 70,000+ ad/tracker domains
 - Zero-cost infrastructure ($0/month)
@@ -31,7 +31,7 @@ A serverless ad-blocking API deployed on Cloudflare's global edge network. Block
 - REST API for programmatic access
 - Deployed on 200+ edge locations worldwide
 
-## 📡 API Usage
+## API Usage
 
 https://dns-adblock.indresik.workers.dev/api/check?domain=doubleclick.net
 
