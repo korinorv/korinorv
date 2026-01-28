@@ -10,30 +10,11 @@ I am an undergraduate with a passion for various technologies and a profound int
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Skills
-## DNS Ad-Blocker (Cloudflare Worker)
-
-A serverless ad-blocking API deployed on Cloudflare's global edge network. Blocks ad and tracker domains with sub-10ms response times.
-
-### [Live Demo](https://dns-adblock.indresik.workers.dev/)
-
-## Tech Stack
-
-- **Cloudflare Workers** (Serverless/Edge Computing)
-- **JavaScript ES6+** (REST API, Async/Await)
-- **HTML/CSS** (Responsive Dashboard)
-- **DNS Protocol** (Network-level Filtering)
-
-## Features
-
-- Blocks 70,000+ ad/tracker domains
-- Zero-cost infrastructure ($0/month)
-- Real-time dashboard with statistics
-- REST API for programmatic access
-- Deployed on 200+ edge locations worldwide
-
-## API Usage
-
-https://dns-adblock.indresik.workers.dev/api/check?domain=doubleclick.net
+- Malware Analysis
+- Digital Forensics
+- Database Management
+- Network Security
+- Threat Analysis
 
 ## Tools
 
